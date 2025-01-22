@@ -57,7 +57,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 ---
 
 ## Certification 📜
-- [Skillovila Data Analytics Professional Certificate]
+- [Skillovila Data Analytics Professional Certificate]https://github.com/Anandy01/Anandy01/blob/main/Skillovilla%20Certificate
 
 ---
 
