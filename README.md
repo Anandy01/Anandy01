@@ -17,7 +17,14 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 - **Tools Used**: Python, Pandas, NumPy.
 - **Outcome**: The project helped in determining employee bonuses based on project status and performance.
 
-
+---
+### **2. Airline Database (SQL Project)**
+- **Code**: [Airline Database Design](https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx)
+- **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
+- **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
+- **Skills**: Database design, SQL queries, data aggregation.
+- **Tools Used**: PostgreSQL.
+- **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
 ## Skills 🛠️
 - Data Management
 - Statistical Analysis
