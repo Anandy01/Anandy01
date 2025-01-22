@@ -28,7 +28,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 
   ---
 ### **3. (Power BI Dashboard)** 
-
+https://github.com/Anandy01/Power-BI-Project-1/blob/main/D1.png
 
 ## Skills 🛠️
 - Data Management
