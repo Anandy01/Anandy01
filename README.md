@@ -27,8 +27,13 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 - **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
 
   ---
-### **3. (Power BI Dashboard)** 
-https://github.com/Anandy01/Power-BI-Project-1/blob/main/D1.png
+### **3. PowerBI Capstone Project (Power BI Project)**
+- **Code**: Power BI dashboard to address key business analytics for a retail dataset.(https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.pbix)
+- **Goal**: Create an interactive dashboard to visualize a retail dataset.
+- **Description**: Developed a dynamic **Power BI dashboard** for a retail dataset. The dashboard provided Provide a clear and concise explanation of the visual, highlighting key insights and findings..
+- **Skills**: Data visualization, dashboard creation, data cleaning.
+- **Tools Used**: Power BI, Microsoft Excel
+- **Outcome**: The interactive dashboard enhanced data-driven decision-making for e-commerce marketstages.
 
 ## Skills 🛠️
 - Data Management
@@ -39,10 +44,29 @@ https://github.com/Anandy01/Power-BI-Project-1/blob/main/D1.png
 - Python
 - SQL
 - Power BI
-
-## Certification 📜
-- Data Analytics with Python (Certification details)
+- Advanced Excel
 
 ---
 
-Feel free to modify the content and links to better suit your needs! If you have any more details or sections you'd like to include, just let me know.
+## **Education**
+- **Data Analyst with Python**, Skillovila, Bengaluru (July 2024 - Dec 2024)
+- **Master of Pharmacy (Pharmaceutics)**, PES University, Bengaluru (Nov 2020 - Aug 2022)
+- **Bachelor of Pharmacy**, Guru Nanak Institute of Pharmaceutical Science & Technology (Aug 2016 - Sep 2020)
+- **Higher Secondary**, Mahesh Sri Ramakrishna Ashram Vidyalaya (H.S)
+
+---
+
+## Certification 📜
+- [Skillovila Data Analytics Professional Certificate]
+
+---
+
+## **Experience**
+- **Associate Clinical Data Co  ordinator**, IQVIA, Bengaluru (March 2023 - Present)
+  - **Skills**: Power BI, Advanced Excel, Data Processing, SQL.
+
+---
+
+## **Contact**
+- 📧 **Email**: animeshnandy97@gmail.com
+- 💼 **LinkedIn**: [@Animesh Nandy]https://www.linkedin.com/in/animesh-nandy-300227145?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7ZKl5cllToKXM7JJcPwx0g%3D%3D
