@@ -9,7 +9,35 @@ In my free time, I enjoy learning new data analysis tools and am always on the l
 This repository showcases my skills, projects, and progress in the Data Analytics field. Here’s what you can expect to find:
 
 ## Projects 🚀
-- **[Project 1](link):** Description of Project 1
+- **[Project 1](link):** # Employee Dataset Analysis 📊
+
+## Created Own DataFrame using Python
+**Code:** Jupyter Notebook
+
+## Goal 🎯
+Practice Python libraries like Pandas and NumPy.
+
+## Description 📝
+Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and Pearson's correlation analysis to uncover key insights.
+
+## Skills 🛠️
+- Data cleaning
+- Exploratory data analysis (EDA)
+- Statistical analysis
+- Data visualization
+
+## Tools Used 🔧
+- Python
+- Pandas
+- NumPy
+
+## Outcome 🌟
+The project helped in determining employee bonuses based on project status and performance.
+
+---
+
+Feel free to adjust the content as needed to better suit your project details! If there's anything else you need to add or modify, let me know.
+
 - **[Project 2](link):** Description of Project 2
 - **[Project 3](link):** Description of Project 3
 
@@ -21,8 +49,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 ## Tools & Technologies 🔧
 - Python
 - SQL
-- Tableau
-- Pandas, NumPy, Matplotlib
+- Power BI
 
 ## Certification 📜
 - Data Analytics with Python (Certification details)
