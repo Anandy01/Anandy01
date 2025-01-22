@@ -28,7 +28,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 
   ---
 ### **3. PowerBI Capstone Project (Power BI Project)**
-- **Code**: Power BI dashboard to address key business analytics for a retail dataset.
+- **Code**: Power BI dashboard to address key business analytics for a retail dataset.https://github.com/Anandy01/Power-BI-Project-1/blob/main/D1.png
 - **Goal**: Create an interactive dashboard to visualize a retail dataset.
 - **Description**: Developed a dynamic **Power BI dashboard** for a retail dataset. The dashboard provided Provide a clear and concise explanation of the visual, highlighting key insights and findings..
 - **Skills**: Data visualization, dashboard creation, data cleaning.
