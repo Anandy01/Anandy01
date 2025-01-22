@@ -25,6 +25,11 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 - **Skills**: Database design, SQL queries, data aggregation.
 - **Tools Used**: PostgreSQL.
 - **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
+
+  ---
+### **3. (Power BI Dashboard)** 
+
+
 ## Skills 🛠️
 - Data Management
 - Statistical Analysis
