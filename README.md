@@ -8,17 +8,15 @@ In my free time, I enjoy learning new data analysis tools and am always on the l
 
 This repository showcases my skills, projects, and progress in the Data Analytics field. Here’s what you can expect to find:
 
-## Projects 🚀
-- **[Project 1](link):** # Employee Dataset Analysis 📊
-## Created Own DataFrame using Python
-**Code:** Jupyter Notebook
-## Goal 🎯 Practice Python libraries like Pandas and NumPy.
-## Description 📝 Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and Pearson's correlation analysis to uncover key insights.
-## Skills 🛠️- Data cleaning- Exploratory data analysis (EDA)- Statistical analysis- Data visualization
-## Tools Used 🔧- Python- Pandas- NumPy
-## Outcome 🌟The project helped in determining employee bonuses based on project status and performance.
-- **[Project 2](link):** Description of Project 2
-- **[Project 3](link):** Description of Project 3
+## **Portfolio Projects**
+### **1. Created Own DataFrame using Python**
+- **Code**: [Jupyter Notebook](https://github.com/SagarKarjagi/Python/blob/main/Python%20Capstone%20project.ipynb)
+- **Goal**: Practice Python libraries like **Pandas** and **NumPy**.
+- **Description**: Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and **Pearson's correlation analysis** to uncover key insights.
+- **Skills**: Data cleaning, EDA, statistical analysis, data visualization.
+- **Tools Used**: Python, Pandas, NumPy.
+- **Outcome**: The project helped in determining employee bonuses based on project status and performance.
+
 
 ## Skills 🛠️
 - Data Management
