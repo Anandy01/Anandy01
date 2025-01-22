@@ -10,7 +10,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 
 ## **Portfolio Projects**
 ### **1. Created Own DataFrame using Python**
-- **Code**: [Jupyter Notebook]
+- **Code**: [Jupyter Notebook]https://github.com/Anandy01/Python-Project_1/blob/main/Animesh_Python%20Capstone%20project.ipynb
 - **Goal**: Practice Python libraries like **Pandas** and **NumPy**.
 - **Description**: Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and **Pearson's correlation analysis** to uncover key insights.
 - **Skills**: Data cleaning, EDA, statistical analysis, data visualization.
