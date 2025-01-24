@@ -18,7 +18,7 @@ This repository showcases my skills, projects, and progress in the Data Analytic
 - **Outcome**: The project helped in determining employee bonuses based on project status and performance.
 
 ---
-### **2. Airline Database (SQL Project)**
+### **2. SQL Capstone Project_1**
 - **Code**: [Airline Database Design]https://github.com/Anandy01/SQL-Project_1/blob/main/AirlineDB%20Schema.pdf
 - **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
 - **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
